@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "SplashScreenApp",
+    "slug": "SplashScreenApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
